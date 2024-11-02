@@ -3,6 +3,14 @@
 
 Neste teste, elaboramos dois layouts diferentes para o nosso aplicativo, denominados Teste A e Teste B, com o objetivo de analisar a experiência e a preferência dos usuários em relação à interatividade e usabilidade. Ambos os protótipos foram desenvolvidos com foco na clareza visual, facilidade de navegação e engajamento do usuário. 🚀
 
+### Teste A
+![image](https://github.com/user-attachments/assets/4e94642c-082a-4ab3-a19c-53498985dfeb)
+
+
+### Teste B
+![image](https://github.com/user-attachments/assets/4672e22f-8b17-4522-9dc7-04300e5c2128)
+
+
 ## ✨ Funcionalidades
 
 - 📲 Identificar a interatividade das interfaces. 
